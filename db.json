@@ -1,4 +1,4 @@
-{"data": [
+{"topics" : [
   {
     "createdAt": "2023-11-03T02:07:09.423Z",
     "nickname": "Dr. Clint Christiansen",
@@ -39,5 +39,4 @@
     "writedTo": "카리나",
     "id": "5"
   }
-]
-}
+]}
